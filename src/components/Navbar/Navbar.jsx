@@ -72,7 +72,11 @@ const Navbar = () => {
                 // className={({ isActive }) =>
                 //   isActive ? "text-yellow-300" : ""
                 // }
-                to="/"
+                onClick={() => {
+                  alert(
+                    "This functionality is currently under development and will be available soon."
+                  );
+                }}
               >
                 Statistics
               </NavLink>
