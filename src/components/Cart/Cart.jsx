@@ -66,8 +66,8 @@ const Cart = () => {
             </div>
 
             {/* Sort button */}
-            <button className="hidden sm:flex items-center gap-2 px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
-              <span className="text-gray-700">Sort</span>
+            <button className="hidden sm:flex items-center gap-2 px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors cursor-pointer">
+              <span className="text-gray-700 font-medium">Sort by price</span>
               <FaSlidersH className="text-gray-500 rotate-90" />
             </button>
 
