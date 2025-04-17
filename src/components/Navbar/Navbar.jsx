@@ -69,9 +69,9 @@ const Navbar = () => {
             </li>
             <li>
               <NavLink
-                className={({ isActive }) =>
-                  isActive ? "text-yellow-300" : ""
-                }
+                // className={({ isActive }) =>
+                //   isActive ? "text-yellow-300" : ""
+                // }
                 to="/"
               >
                 Statistics
