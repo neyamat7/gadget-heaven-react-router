@@ -39,7 +39,7 @@ const Navbar = () => {
                 <NavLink to="/">Home</NavLink>
               </li>
               <li>
-                <NavLink to="/">Statistics</NavLink>
+                <NavLink to="/stats">Statistics</NavLink>
               </li>
               <li>
                 <NavLink to="/dashboard">Dashboard</NavLink>
@@ -69,14 +69,15 @@ const Navbar = () => {
             </li>
             <li>
               <NavLink
-                // className={({ isActive }) =>
-                //   isActive ? "text-yellow-300" : ""
-                // }
-                onClick={() => {
-                  alert(
-                    "This functionality is currently under development and will be available soon."
-                  );
-                }}
+                className={({ isActive }) =>
+                  isActive ? "text-yellow-300" : ""
+                }
+                to="/stats"
+                // onClick={() => {
+                //   alert(
+                //     "This functionality is currently under development and will be available soon."
+                //   );
+                // }}
               >
                 Statistics
               </NavLink>

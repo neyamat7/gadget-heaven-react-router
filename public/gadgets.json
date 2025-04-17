@@ -2,9 +2,10 @@
   {
     "product_id": "P991",
     "product_title": "Apple iPhone 15 Pro Max",
-    "product_image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-15-Pro-lineup-hero-230912.jpg.og.jpg",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693009279096",
     "category": "iphone",
     "price": 1299,
+    "total": 4899,
     "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
     "specification": [
       "6.7-inch Super Retina XDR display",
@@ -19,9 +20,10 @@
   {
     "product_id": "P992",
     "product_title": "Samsung Galaxy S23 Ultra",
-    "product_image": "https://images.samsung.com/us/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-highlights-kv.jpg",
+    "product_image": "https://i.postimg.cc/Nfz5Z9DC/samsung-galaxy-s23-ultra-5g.jpg",
     "category": "phones",
     "price": 1199,
+    "total": 3597,
     "description": "The ultimate Galaxy phone with embedded S Pen and 200MP camera.",
     "specification": [
       "6.8-inch Dynamic AMOLED 2X",
@@ -36,9 +38,10 @@
   {
     "product_id": "P993",
     "product_title": "Sony WH-1000XM5",
-    "product_image": "https://www.sony.com/image/abf2d4e1e5e5e5e5e5e5e5e5e5e5e5e5",
+    "product_image": "https://i.postimg.cc/rpCyyKGk/images.jpg",
     "category": "accessories",
     "price": 399,
+    "total": 1197,
     "description": "Industry-leading noise canceling headphones with superb sound quality.",
     "specification": [
       "30-hour battery life",
@@ -53,9 +56,10 @@
   {
     "product_id": "P994",
     "product_title": "MacBook Pro 14-inch",
-    "product_image": "https://www.apple.com/v/macbook-pro-14-and-16/b/images/overview/hero/hero_intro__f0w6r6t6mrya_large.jpg",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673209",
     "category": "Laptops",
     "price": 1999,
+    "total": 4998,
     "description": "Supercharged for pros with the M2 Pro or M2 Max chip.",
     "specification": [
       "M2 Pro or M2 Max chip",
@@ -70,9 +74,10 @@
   {
     "product_id": "P995",
     "product_title": "Dyson V15 Detect",
-    "product_image": "https://www.dyson.com/dyson-uploads/cms/en/assets/medialibrary/Images/Product/Sticks/V15-Detect/Features/hero/V15_Detect_Yellow_LCD_hero.png",
+    "product_image": "https://i.postimg.cc/qRTtQPwk/download-2.jpg",
     "category": "accessories",
     "price": 699,
+    "total": 2097,
     "description": "Cordless vacuum with laser dust detection and powerful suction.",
     "specification": [
       "230AW suction power",
@@ -87,9 +92,10 @@
   {
     "product_id": "P996",
     "product_title": "PlayStation 5",
-    "product_image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21",
+    "product_image": "https://i.postimg.cc/zvdVzVrB/download-1.jpg",
     "category": "Gaming",
     "price": 499,
+    "total": 1497,
     "description": "Next-gen gaming console with ultra-high speed SSD.",
     "specification": [
       "4K UHD Blu-ray",
@@ -104,9 +110,10 @@
   {
     "product_id": "P997",
     "product_title": "Bose QuietComfort Earbuds II",
-    "product_image": "https://www.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc_earbuds_ii/product_silo_images/qc_earbuds_ii_black_EC_hero.psd/jcr:content/renditions/cq5dam.web.1000.1000.png",
+    "product_image": "https://i.postimg.cc/DzsJrvqj/download-3.jpg",
     "category": "accessories",
     "price": 279,
+    "total": 837,
     "description": "Premium wireless earbuds with world-class noise cancellation.",
     "specification": [
       "Active Noise Cancelling",
@@ -121,9 +128,10 @@
   {
     "product_id": "P998",
     "product_title": "Nintendo Switch OLED",
-    "product_image": "https://www.nintendo.com/content/dam/noa/en_US/hardware/switch/nintendo-switch-oled-model/hero.png",
+    "product_image": "https://i.postimg.cc/mk6gxJY1/download-6.jpg",
     "category": "Gaming",
     "price": 349,
+    "total": 1396,
     "description": "Handheld gaming console with vibrant OLED screen.",
     "specification": [
       "7-inch OLED screen",
@@ -138,9 +146,10 @@
   {
     "product_id": "P999",
     "product_title": "Canon EOS R5",
-    "product_image": "https://www.usa.canon.com/content/dam/canon/support/products/eos/r5/images/r5_front_angle.png",
+    "product_image": "https://i.postimg.cc/ncRDZwFk/download-4.jpg",
     "category": "Cameras",
     "price": 3899,
+    "total": 4999,
     "description": "Full-frame mirrorless camera with 8K video recording.",
     "specification": [
       "45MP full-frame sensor",
@@ -155,9 +164,10 @@
   {
     "product_id": "P1000",
     "product_title": "Apple Watch Ultra",
-    "product_image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-Ultra-2-230912.jpg.og.jpg",
+    "product_image": "https://i.postimg.cc/cCT8vFQd/download-5.jpg",
     "category": "smartwatches",
     "price": 799,
+    "total": 2397,
     "description": "The most rugged and capable Apple Watch for extreme adventures.",
     "specification": [
       "49mm titanium case",
@@ -165,6 +175,24 @@
       "100m water resistance",
       "36-hour battery life",
       "Action button"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P1001",
+    "product_title": "MacBook Air 13-inch",
+    "product_image": "https://i.postimg.cc/zfj5Z45D/download-7.jpg",
+    "category": "macbook",
+    "price": 1199,
+    "total": 3597,
+    "description": "Thin, light, and powerful with the M2 chip for all-day productivity.",
+    "specification": [
+      "M2 chip with 8-core CPU",
+      "13.6-inch Liquid Retina display",
+      "Up to 24GB unified memory",
+      "Up to 2TB SSD",
+      "18-hour battery life"
     ],
     "availability": true,
     "rating": 4.8

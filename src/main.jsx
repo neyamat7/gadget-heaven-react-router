@@ -10,6 +10,7 @@ import {
   Dashboard,
   Cart,
   Wishlist,
+  Statistics,
 } from "./components/index.js";
 import { GedgetProvider } from "./components/context/useGadgetsContext.jsx";
 import { CartProvider } from "./components/context/useDashboard.jsx";
@@ -50,6 +51,11 @@ const router = createBrowserRouter([
             Component: Wishlist,
           },
         ],
+      },
+      {
+        path: "stats",
+        loader: () => fetch("/gadgets.json"),
+        Component: Statistics,
       },
     ],
   },

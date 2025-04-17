@@ -9,6 +9,7 @@ import Details from "./Details/Details";
 import Dashboard from "./Dashboard/Dashboard";
 import Cart from "./Cart/Cart";
 import Wishlist from "./Wishlist/Wishlist";
+import Statistics from "./Statistics/Statistics";
 
 export {
   Navbar,
@@ -22,4 +23,5 @@ export {
   Dashboard,
   Cart,
   Wishlist,
+  Statistics
 };
